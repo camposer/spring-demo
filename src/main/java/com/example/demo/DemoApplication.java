@@ -14,8 +14,6 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
-import java.util.ArrayList;
-import java.util.List;
 
 @SpringBootApplication
 public class DemoApplication implements CommandLineRunner, ApplicationContextAware {
